@@ -1,0 +1,26 @@
+# Compiler files
+
+
+# Ignores development broadcast logs
+
+
+# Docs
+docs/
+
+# Dotenv file
+.env
+
+# Scripts
+*.ps1
+scripts/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# IDE files
+.vscode/
+.idea/
+
+# Foundry
+remappings.txt
